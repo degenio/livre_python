@@ -2,7 +2,7 @@
 
 # Python par la pratique
 
-![Couverture du livre](cover/cover_livre_python.pdf)
+![Couverture du livre](/cover/cover_livre_python.pdf)
 
 ## Description
 

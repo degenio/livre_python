@@ -1,8 +1,8 @@
 # Solutionnaires du livre python par la pratique
 
-# Titre du livre en Python
+# Python par la pratique
 
-![Couverture du livre](lien_vers_l_image_de_couverture.jpg)
+![Couverture du livre](cover/cover_livre_python.pdf)
 
 ## Description
 

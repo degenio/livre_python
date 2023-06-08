@@ -1,6 +1,5 @@
 # Solutionnaires du livre Python par la pratique
 
-
 ![Couverture du livre](cover/cover_livre_python.jpg)
 
 ## Description

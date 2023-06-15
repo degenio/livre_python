@@ -1,0 +1,6 @@
+Page 24. Listing 1.3
+au lieu de message = 'Bienvenue au monde de Python" 
+on devrait mettre:
+message = 'Bienvenue au monde de Python'
+
+Correction: soit on met quote simple ou bien double quote. 

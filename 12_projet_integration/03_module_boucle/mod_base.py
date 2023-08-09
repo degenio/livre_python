@@ -4,8 +4,7 @@ classification=['Poids insuffisant','Poids normal',
 poids = 0
 while poids <= 0:
     poids = float(input("Saisir votre poids:"))
-\end{mypython}
-\begin{mypython}
+
 taille = 0
 while taille <= 0:
     taille = float(input("Saisir votre taille:"))

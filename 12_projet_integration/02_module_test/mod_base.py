@@ -1,3 +1,4 @@
+risque=['Accru','Moindre','Accru','Élevé','Très élevé','Extrêmement élevé']
 classification=['Poids insuffisant','Poids normal',
 'Excès de poids','Obésité, classe I','Obésité, classe II','Obésité, classe III']
 
